@@ -7,7 +7,7 @@ Berikut adalah skrip SQL untuk membuat tabel `todo` beserta semua kolom yang ses
 Buat database PostgreSQL terlebih dahulu:
 
 ```sql
-CREATE DATABASE todo
+CREATE DATABASE latihanphp
     WITH 
     OWNER = postgres
     ENCODING = 'UTF8'
